@@ -1,0 +1,33 @@
+# Snowball Vite React PWA Starter
+
+This is a starter template for a [Vite](https://vitejs.dev) [React](https://react.dev) [PWA](https://web.dev/explore/progressive-web-apps) using [TypeScript](https://www.typescriptlang.org), [Tailwind CSS](https://tailwindcss.com), and [Snowball](https://snowball.build).
+
+## Getting Started
+
+### Clone the repository
+
+```zsh
+git clone git@github.com:snowball-tools/pwa-vite-react.git
+```
+
+### Installation
+
+```zsh
+npm install
+```
+
+### Generate PWA files (sw.js, workbox-<>)
+
+```zsh
+npm run build
+```
+
+### Development
+
+```zsh
+npm run dev
+```
+
+### License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
