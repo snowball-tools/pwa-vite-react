@@ -16,12 +16,6 @@ git clone git@github.com:snowball-tools/pwa-vite-react.git
 npm install
 ```
 
-### Generate PWA files (sw.js, workbox-<>)
-
-```zsh
-npm run build
-```
-
 ### Development
 
 ```zsh
